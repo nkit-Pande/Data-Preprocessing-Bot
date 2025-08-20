@@ -1,15 +1,3 @@
-Got it 👍 you want your project README to look more **professional, attractive, and resume-worthy**. Right now, it looks like a plain checklist. Let’s polish it with:
-
-* Better **structure**
-* More **engaging language**
-* Emojis for readability
-* A short **"Why this project?"** section (to show motivation)
-* Clear **technical highlights**
-
-Here’s a refined version:
-
----
-
 # 🤖 Data Preprocessing Bot
 
 A **lightweight yet powerful Python utility** that automates common **data preprocessing tasks** — the backbone of every data analysis and machine learning workflow.
