@@ -1,0 +1,5 @@
+2025-08-20 21:34:12,768 - INFO - Dataset loaded with shape (4653, 9)
+2025-08-20 21:34:12,770 - INFO - Missing values handled: {}
+2025-08-20 21:34:12,779 - INFO - Categorical columns encoded: {'Education': 'One-Hot Encoding', 'City': 'One-Hot Encoding', 'Gender': 'Label Encoding', 'EverBenched': 'Label Encoding'}
+2025-08-20 21:34:12,785 - INFO - Data scaled using {'method': 'Standardization (Z-score)'}
+2025-08-20 21:34:12,789 - INFO - Data split into training and testing sets with test size = 0.2
